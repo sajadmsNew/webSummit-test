@@ -1,0 +1,41 @@
+.MissionList {
+  height: 100vh;
+  overflow: hidden auto;
+  background-color: #ececec;
+  /* width: 300px; */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.MissionList__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+
+.MissionList__card{
+  background: white;
+    border-radius: 2%;
+    margin-bottom: 20px;
+    width: 80%;
+    padding: 0 20px 20px 20px;
+    border-top: 1px solid #919191;
+    cursor: pointer;
+}
+.MissionList__link{
+  text-decoration:none;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top: 1px solid #919191;
+  cursor: pointer;
+}
+.MissionList__text{
+  white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
