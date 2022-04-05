@@ -1,14 +1,9 @@
-### [Skilled.dev - Coding Interview Course](https://skilled.dev)
-Master the programming interview [Learn More →](https://skilled.dev)
 
-### [Software Engineer Resume Builder](https://gitconnected.com/resume-builder)
-Effortlessly generate a developer resume. [Learn More →](https://gitconnected.com/resume-builder)
-
+# Web Summit Front End Test 
+ here is the app to get the data from spaceX graph ql api and show the Missions as a list , plus you can select each one yu like to see the profile for each one 
 # React App with GraphQL and TypeScript
 
-A fully functioning React app using a [GraphQL implemention](https://spacexdata.herokuapp.com/graphql) of the [public SpaceX API](https://docs.spacexdata.com/).
-
-Follow the step-by-step [tutorial](https://levelup.gitconnected.com/build-a-graphql-react-app-with-typescript-9661f908b26?source=friends_link&sk=efe66b87d9f785c04b3e68f05ed25b7d)
+A fully functioning React app using a [GraphQL implemention] of the [public SpaceX API](https://docs.spacexdata.com/).
 
 ## Overview
 
